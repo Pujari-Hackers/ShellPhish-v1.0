@@ -21,5 +21,6 @@ bash shellphish.sh
 
 ### Donate!
 Support the authors:
+<noscript><a href="https://rzp.io/i/sUaSyNv"><img alt="Donate using Liberapay" src="https://p7.hiclipart.com/preview/798/853/312/india-payment-gateway-razorpay-startup-company-india.jpg"></a></noscript>
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+https://rzp.io/i/sUaSyNv

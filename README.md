@@ -10,7 +10,8 @@ Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github
 ## Legal disclaimer:
 Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![sp](https://drive.google.com/file/d/1keAfD5R96SMVKjm4EZZP-bqex5gddA77/view?usp=sharing)
+
+
 
 ### Usage:
 ```
